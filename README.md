@@ -52,7 +52,7 @@ dbConnect()
 #             host='localhost',
 #             database='PDBC',
 #             user='root',
-#             password='Immu@9866'
+#             password='Your database password'
 #         )
 #         if connection.is_connected():
 #             print("Connection Established")
