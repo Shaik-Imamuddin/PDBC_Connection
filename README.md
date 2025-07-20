@@ -25,7 +25,7 @@ def dbConnect():
         host='localhost',
         database='PDBC',
         user='root',
-        password='Immu@9866'
+        password='Your database password'
     )
     
     # if all the given inputs are matched ,it returns a live connection object.
